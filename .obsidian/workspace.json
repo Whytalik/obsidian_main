@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Work/Emails/Email types.md",
+                "file": "Templates/Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Email types"
+              "title": "Basic"
             }
           }
         ]
@@ -211,18 +211,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2246e0e3fc7caa4d",
+  "active": "0dc0e7ad52c004da",
   "lastOpenFiles": [
+    "Templates/Basic.md",
+    "2. Areas/Work/Emails/Email types.md",
     "2. Areas/Programming",
     "1. Projects/Diploma/Без назви.md",
     "1. Projects/Diploma",
-    "2. Areas/Work/Emails/Email types.md",
     "3. Resources/Books/Без назви",
     "3. Resources/Books",
     "Files",
     "Files/Pasted image 20250416181608.png",
     "Files/Pasted image 20250416181601.png",
-    "Templates/Basic.md",
     "Templates/Knowledge.md",
     "2. Areas/Work/Flow",
     "2. Areas/Work/Banners",
@@ -237,7 +237,6 @@
     "Structure/Tags.md",
     "Structure/Tags",
     "Structure/Tag.md",
-    "Structure/Index",
     "Structure/Index.md",
     "3. Resources/Без назwdergergergви.md",
     "3. Resources/dwdwdwd.md",
