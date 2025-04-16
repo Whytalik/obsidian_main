@@ -1,0 +1,25 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "note": 1,
+    "idea": 2,
+    "ideas": 3,
+    "reading": 4,
+    "books": 5,
+    "knowledge": 6,
+    "experiment": 7,
+    "zettelkasten": 8,
+    "work": 9,
+    "email": 10
+  },
+  "_version": 3
+}
