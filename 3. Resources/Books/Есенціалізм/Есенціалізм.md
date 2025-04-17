@@ -1,31 +1,10 @@
 ---
 tags:
-  - idea
+  - book
+parent: "[[]]"
 ---
-#### 📝 Description  
----
-
-
-#### 🎯 Purpose / Goal  
 ---
 
-
-#### 🔍 Analysis  
- ---
- 
-
-#### 🔗 Internal Links  
----
-- Related notes:  
-  - [[]]
-
-
-#### 💡 Inspiration / References
----
-- External links:  
-	- 
-- Quotes / Sources: 
-	- 
 
 
 ```dataviewjs

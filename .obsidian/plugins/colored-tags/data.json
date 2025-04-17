@@ -19,7 +19,13 @@
     "experiment": 7,
     "zettelkasten": 8,
     "work": 9,
-    "email": 10
+    "email": 10,
+    "ai": 11,
+    "resources": 12,
+    "book": 13,
+    "ai/book": 1,
+    "work/email": 1,
+    "trading": 14
   },
   "_version": 3
 }

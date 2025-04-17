@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "LiDatabase",
       "LiAlignHorizontalJustifyCenter",
       "LiChartCandlestick",
-      "LiNotebookPen",
-      "LiStickyNote"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Templates/Note.md": "LiNotebookPen",
   "Templates/Experiment.md": "LiChartCandlestick",
   "Templates/Zettelkasten.md": "LiAlignHorizontalJustifyCenter",
-  "Templates/Basic.md": "LiDatabase"
+  "Templates/Basic.md": "LiDatabase",
+  "Templates/Book.md": "LiBook"
 }

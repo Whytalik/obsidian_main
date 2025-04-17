@@ -2,24 +2,24 @@
 tags:
   - experiment
 ---
----
 #### 🧠 Hypothesis  
-
-
 ---
+
+
 #### 🔧 What I'm Doing  
-
-
 ---
+
+
 #### 📊 Results / Observations  
-
-
 ---
+
+
 #### 🧾 Conclusion  
-
-
 ---
+
+
 #### 🔗 Related Notes  
+---
 - [[ ]]
 
 

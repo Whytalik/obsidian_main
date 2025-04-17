@@ -1,6 +1,29 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "nhEYj6zLnYmvA9wklQbhF",
+      "name": "Mint",
+      "value": "#00ff88"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "3. Resources/Books/Есенціалізм/Есенціалізм.md",
+      "color": "nhEYj6zLnYmvA9wklQbhF"
+    },
+    {
+      "path": "3. Resources/Books/12-ти тижневий рік/12-ти тижневий рік.md",
+      "color": "nhEYj6zLnYmvA9wklQbhF"
+    },
+    {
+      "path": "3. Resources/Books/Зональний трейдинг/Зональний трейдинг.md",
+      "color": "nhEYj6zLnYmvA9wklQbhF"
+    },
+    {
+      "path": "3. Resources/Books/Сила інтровертів/Сила інтровертів.md",
+      "color": "nhEYj6zLnYmvA9wklQbhF"
+    }
+  ]
 }

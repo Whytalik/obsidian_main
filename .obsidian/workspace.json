@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "247beab6578cfce2",
+        "id": "0b8f08db7e204291",
         "type": "tabs",
         "children": [
           {
-            "id": "6a928bc72c837a7d",
+            "id": "ead89b4d6598f297",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Basic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "Нова вкладка"
             }
           }
         ]
@@ -175,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Додаток більше не активний"
             }
           },
           {
@@ -194,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,44 +208,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dc0e7ad52c004da",
+  "active": "2246e0e3fc7caa4d",
   "lastOpenFiles": [
+    "Templates/Book.md",
+    "3. Resources/Books/Зональний трейдинг/Зональний трейдинг.md",
+    "3. Resources/Books/Зональний трейдинг/Фокус на інформації.md",
+    "3. Resources/Books/Зональний трейдинг/Системність.md",
+    "3. Resources/Books/Зональний трейдинг/Результат як спосіб аналізу.md",
+    "3. Resources/Books/Зональний трейдинг/Прийняття ризику.md",
+    "3. Resources/Books/Зональний трейдинг/Безсистемність.md",
     "Templates/Basic.md",
+    "Templates/Experiment.md",
+    "Templates/Idea.md",
+    "Templates/Knowledge.md",
+    "Templates/Note.md",
+    "Templates/Zettelkasten.md",
+    "3. Resources/Books/Сила інтровертів/Без назви.canvas",
+    "3. Resources/Books/Сила інтровертів/Сhapters",
+    "3. Resources/Books/Зональний трейдинг/Сhapters",
+    "3. Resources/Books/Есенціалізм/Сhapters",
+    "3. Resources/Books/12-ти тижневий рік/Сhapters",
+    "3. Resources/Books/Сила інтровертів/Сила інтровертів.md",
+    "3. Resources/Books/12-ти тижневий рік/12-ти тижневий рік.md",
+    "3. Resources/Books/Сила інтровертів",
     "2. Areas/Work/Emails/Email types.md",
-    "2. Areas/Programming",
-    "1. Projects/Diploma/Без назви.md",
-    "1. Projects/Diploma",
-    "3. Resources/Books/Без назви",
+    "3. Resources/Books/Есенціалізм/Есенціалізм.md",
+    "3. Resources/Books/Есенціалізм",
+    "3. Resources/Books/Зональний трейдинг",
+    "3. Resources/Books/12-ти тижневий рік",
+    "3. Resources/AI/ChatGPT/How to use ChatGPT.md",
+    "3. Resources/Books/Index",
     "3. Resources/Books",
-    "Files",
+    "1. Projects/Diploma/Без назви.md",
     "Files/Pasted image 20250416181608.png",
     "Files/Pasted image 20250416181601.png",
-    "Templates/Knowledge.md",
-    "2. Areas/Work/Flow",
-    "2. Areas/Work/Banners",
-    "2. Areas/Work/Emails",
-    "2. Areas/Work",
-    "Templates/Note.md",
-    "Templates/Idea.md",
-    "Templates/Experiment.md",
-    "Templates/Zettelkasten.md",
     "2. Areas/Без наdwdwdwdзви.md",
     "2. Areas/Без назвиwdwdwdwd.md",
     "Structure/Tags.md",
-    "Structure/Tags",
     "Structure/Tag.md",
     "Structure/Index.md",
     "3. Resources/Без назwdergergergви.md",
-    "3. Resources/dwdwdwd.md",
-    "Vault.md",
-    "0. Inbox/0. Inbox.md",
-    "2. Areas/2. Areas.md",
-    "Без назви.md",
-    "4. Archive/4. Archive.md",
-    "3. Resources/3. Resources.md",
-    "1. Projects/1. Projects.md",
-    "Templates/Templates.md",
-    "Templates/32r23r23r.md",
-    "Templates/Project Template.md"
+    "3. Resources/dwdwdwd.md"
   ]
 }

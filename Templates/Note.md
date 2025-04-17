@@ -2,35 +2,35 @@
 tags:
   - "#note"
 ---
----
 #### 📝 Note
-
-
 ---
-#### 📌 Key Takeaways  
-- 
-- 
-- 
 
+
+#### 📌 Key Takeaways
 ---
+- 
+- 
+- 
 
 
 #### 🛠️ Practical Applications
 - How can I apply this in my life/work/studies?
-
-
 ---
+
+
 #### ❓ Questions to Reflect On  
+---
 -  
 -  
 
----
+
 #### ✍️ My Thoughts & Insights 
 - (Personal reactions, agreements/disagreements, emotional responses, etc.)
-
-
 ---
+
+
 #### 🔗 Internal Links  
+---
 - Related notes:  
   - [[]]
 

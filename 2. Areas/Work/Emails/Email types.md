@@ -1,8 +1,8 @@
 ---
 tags:
-  - work
   - knowledge
   - email
+  - work/email
 parent: "[[]]"
 ---
 ---

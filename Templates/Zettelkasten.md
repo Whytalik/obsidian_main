@@ -1,27 +1,28 @@
 ---
 tags:
   - zettelkasten
----
+parent: "[[]]"
 ---
 #### 💡 Main Thought  
-
-
 ---
+
+
 #### 🔍 Explanation  
-
-
 ---
+
+
 #### 🧱 Connections  
+---
 - [[ ]]  
 - [[ ]]
 
 
----
 #### 📚 Source / Origin (optional)  
-
-
 ---
+
+
 #### 🧠 My Commentary (optional)  
+---
 
 
 ```dataviewjs
