@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8f08db7e204291",
+        "id": "e0cf957dfda2f245",
         "type": "tabs",
         "children": [
           {
-            "id": "ead89b4d6598f297",
+            "id": "b5f459806dfb9530",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Zettelkasten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Zettelkasten"
+              "title": "Вміст"
             }
           },
           {
@@ -171,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Додаток більше не активний"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -186,12 +185,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,40 +206,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2246e0e3fc7caa4d",
+  "active": "99d4c0e56a159f87",
   "lastOpenFiles": [
-    "Templates/Book.md",
-    "3. Resources/Books/Зональний трейдинг/Зональний трейдинг.md",
-    "3. Resources/Books/Зональний трейдинг/Фокус на інформації.md",
-    "3. Resources/Books/Зональний трейдинг/Системність.md",
-    "3. Resources/Books/Зональний трейдинг/Результат як спосіб аналізу.md",
-    "3. Resources/Books/Зональний трейдинг/Прийняття ризику.md",
-    "3. Resources/Books/Зональний трейдинг/Безсистемність.md",
-    "Templates/Basic.md",
-    "Templates/Experiment.md",
-    "Templates/Idea.md",
-    "Templates/Knowledge.md",
-    "Templates/Note.md",
-    "Templates/Zettelkasten.md",
-    "3. Resources/Books/Сила інтровертів/Без назви.canvas",
-    "3. Resources/Books/Сила інтровертів/Сhapters",
-    "3. Resources/Books/Зональний трейдинг/Сhapters",
-    "3. Resources/Books/Есенціалізм/Сhapters",
-    "3. Resources/Books/12-ти тижневий рік/Сhapters",
-    "3. Resources/Books/Сила інтровертів/Сила інтровертів.md",
-    "3. Resources/Books/12-ти тижневий рік/12-ти тижневий рік.md",
-    "3. Resources/Books/Сила інтровертів",
-    "2. Areas/Work/Emails/Email types.md",
-    "3. Resources/Books/Есенціалізм/Есенціалізм.md",
-    "3. Resources/Books/Есенціалізм",
-    "3. Resources/Books/Зональний трейдинг",
-    "3. Resources/Books/12-ти тижневий рік",
     "3. Resources/AI/ChatGPT/How to use ChatGPT.md",
-    "3. Resources/Books/Index",
-    "3. Resources/Books",
+    "0. Inbox/Без назви.md",
+    "2. Areas/Programming/GIT/GitFLow/release.md",
+    "2. Areas/Programming/GIT/GitFLow/hotfix.md",
+    "2. Areas/Programming/GIT/GitFLow/feature.md",
+    "2. Areas/Programming/GIT/GitFLow/develop.md",
+    "Files/Pasted image 20250124125606.png",
+    "Files/Pasted image 20250124130028.png",
+    "Files/Pasted image 20250124125836.png",
+    "Files/Pasted image 20250124125603.png",
+    "Files/Pasted image 20250124125601.png",
+    "2. Areas/Programming/GIT/GitFLow/Git Flow.md",
+    "2. Areas/Programming/GIT/GitFLow",
+    "2. Areas/Programming/GIT",
+    "2. Areas/Work/Emails/Email Structure.md",
+    "Files/Pasted image 20250417142453.png",
+    "2. Areas/Work/Emails/Approved Emails.md",
+    "2. Areas/Work/Emails/Broadcast Email.md",
+    "Templates/Basic.md",
+    "2. Areas/Work/Emails/Email Fragments.md",
+    "2. Areas/Work/Emails/Email types.md",
+    "Без назви",
+    "3. Resources/AI/ChatGPT",
+    "3. Resources/AI",
+    "2. Areas/Programming",
     "1. Projects/Diploma/Без назви.md",
+    "1. Projects/Diploma",
+    "3. Resources/Books/Без назви",
+    "3. Resources/Books",
+    "Files",
     "Files/Pasted image 20250416181608.png",
     "Files/Pasted image 20250416181601.png",
+    "Templates/Knowledge.md",
+    "Templates/Note.md",
+    "Templates/Idea.md",
+    "Templates/Experiment.md",
+    "Templates/Zettelkasten.md",
     "2. Areas/Без наdwdwdwdзви.md",
     "2. Areas/Без назвиwdwdwdwd.md",
     "Structure/Tags.md",

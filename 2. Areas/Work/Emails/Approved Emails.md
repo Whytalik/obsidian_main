@@ -1,8 +1,16 @@
 ---
-tags: []
-parent: "[[]]"
+tags:
+  - email/approved
+parent: "[[Email types]]"
 ---
 ---
+- **Approved Email** is an email with pre-approved content and is a part of regular interaction with a physician. There is only 1 recipient, so this is personal communication.
+- Content for **Approved** **Emails** usually goes through medical approval as all the other content.
+- **Approved** **E****mail** can be used by MedReps as:
+    - pre- or post-visit communication (invitation or follow-up)
+    - part of Patient Support Program
+    - scientific articles and professional information
+    - e-learning: invitation, information about courses
 
 
 ```dataviewjs

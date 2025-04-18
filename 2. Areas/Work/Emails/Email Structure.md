@@ -1,9 +1,10 @@
 ---
-tags: []
+tags:
+  - email
 parent: "[[]]"
 ---
 ---
-
+![[Pasted image 20250417142453.png]]
 
 ```dataviewjs
 // Get current note details

@@ -1,8 +1,12 @@
 ---
-tags: []
+tags:
+  - email
 parent: "[[]]"
 ---
 ---
+**Email Fragments** are pre-designed pieces of content that can be seamlessly inserted into an email's body. They facilitate the reuse of **Approved** **Emails** by allowing you to create a single email template and then quickly customize it by adding r**eady-made fragments**. When sending an email, medical representatives & key account managers can select these fragments based on the information they consider **most relevant** for the HCPs.  
+  
+The primary purpose of **Email Fragments** is to personalize communication, ensuring that each email contains only **appropriate** and **pre-approved content**, and maintains the integrity and relevance of the message to the recipient.
 
 
 ```dataviewjs

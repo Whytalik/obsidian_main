@@ -1,9 +1,10 @@
 ---
-tags: []
-parent: "[[]]"
+tags:
+  - email/broadcast
+parent: "[[Email types]]"
 ---
 ---
-
+**Broadcast Email** is a type of mass email communication sent simultaneously to a large group of recipients, usually from a mailing list. It is commonly used in email marketing to share promotions, newsletters, product updates, company news, or important announcements. Broadcast emails are generally non-personalized or only slightly personalized (e.g., using the recipient’s name), and the same content is delivered to all recipients. The main goal is to inform, engage, or prompt a specific action from a wide audience efficiently and consistently.
 
 ```dataviewjs
 // Get current note details

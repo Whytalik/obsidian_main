@@ -20,12 +20,15 @@
     "zettelkasten": 8,
     "work": 9,
     "email": 10,
-    "ai": 11,
-    "resources": 12,
-    "book": 13,
-    "ai/book": 1,
     "work/email": 1,
-    "trading": 14
+    "ai": 11,
+    "book": 12,
+    "trading": 13,
+    "fragment": 14,
+    "email/broadcast": 1,
+    "email/approved": 2,
+    "git": 15,
+    "gitflow": 16
   },
   "_version": 3
 }

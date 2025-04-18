@@ -2,7 +2,6 @@
 tags:
   - knowledge
   - email
-  - work/email
 parent: "[[]]"
 ---
 ---
