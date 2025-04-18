@@ -4,20 +4,1033 @@
     "type": "split",
     "children": [
       {
-        "id": "e0cf957dfda2f245",
+        "id": "b27c501131533c4f",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f459806dfb9530",
+            "id": "500d0081b0a7ff3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Чітка мета.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "Чітка мета"
+            }
+          },
+          {
+            "id": "93f8afab048894fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Час на думки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Час на думки"
+            }
+          },
+          {
+            "id": "8699bcf867c0150f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Фокус на головній меті.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Фокус на головній меті"
+            }
+          },
+          {
+            "id": "73c61de61de9456d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Упередження незворотних втрат.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Упередження незворотних втрат"
+            }
+          },
+          {
+            "id": "3f6900d90e87ede1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Стратегія.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Стратегія"
+            }
+          },
+          {
+            "id": "c37253fdff8c39c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Стосунки і рішення.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Стосунки і рішення"
+            }
+          },
+          {
+            "id": "9b53b91d44b1b61d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Сон як ключ до продуктивності.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сон як ключ до продуктивності"
+            }
+          },
+          {
+            "id": "2edbaf0448797a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Сон як ключ до мозкової гнучкості.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сон як ключ до мозкової гнучкості"
+            }
+          },
+          {
+            "id": "c71a378ef033440d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Сміливість фільтрування.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сміливість фільтрування"
+            }
+          },
+          {
+            "id": "a4c2aea2d05d906a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Сила відмови.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сила відмови"
+            }
+          },
+          {
+            "id": "73caaf87d65b4bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Роздуми над можливістю.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Роздуми над можливістю"
+            }
+          },
+          {
+            "id": "ff6b4c0c995d8b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Рефлексія над критичним.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рефлексія над критичним"
+            }
+          },
+          {
+            "id": "b5048cf498eb5ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Простір для думок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Простір для думок"
+            }
+          },
+          {
+            "id": "53cab24f62aea9f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Правило 90 чи нічого.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Правило 90 чи нічого"
+            }
+          },
+          {
+            "id": "d4a3a090cb438c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Підготовка та планування.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Підготовка та планування"
+            }
+          },
+          {
+            "id": "0200d52445457370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Пауза перед рішенням.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пауза перед рішенням"
+            }
+          },
+          {
+            "id": "5bd899244bb1abcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Оцінка можливостей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оцінка можливостей"
+            }
+          },
+          {
+            "id": "43162bfe749f61a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Оптимізація часу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оптимізація часу"
+            }
+          },
+          {
+            "id": "e7fc26099b69a37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Однозначне 'так' або ні.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Однозначне 'так' або ні"
+            }
+          },
+          {
+            "id": "1719cb91f2e2a3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Нудьга як важлива частина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Нудьга як важлива частина"
+            }
+          },
+          {
+            "id": "90c66b31c56cf7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Недооцінка часу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Недооцінка часу"
+            }
+          },
+          {
+            "id": "043a64e64603a812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Напишіть план.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Напишіть план"
+            }
+          },
+          {
+            "id": "8fcb1d53f867ab01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Менше, але краще.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Менше, але краще"
+            }
+          },
+          {
+            "id": "4bd5a2cadf6080e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Межі в житті.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Межі в житті"
+            }
+          },
+          {
+            "id": "aed0d0381887bafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Лід. Дивитися ширше.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лід. Дивитися ширше"
+            }
+          },
+          {
+            "id": "d7b55448da51f163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Конкретна мета.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Конкретна мета"
+            }
+          },
+          {
+            "id": "9961b1aee5b40465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Компроміс.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Компроміс"
+            }
+          },
+          {
+            "id": "242eeb6fefe9beb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Комплекс вартості.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Комплекс вартості"
+            }
+          },
+          {
+            "id": "e2cb82b33a1ebd52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Закреслюйте непотрібне.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Закреслюйте непотрібне"
+            }
+          },
+          {
+            "id": "c3ec43319b63f8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Журнал подій.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Журнал подій"
+            }
+          },
+          {
+            "id": "21a43129a48ee90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Есенціалізм у Прийнятті Рішень.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Есенціалізм у Прийнятті Рішень"
+            }
+          },
+          {
+            "id": "ce086de4a8874349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Гра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гра"
+            }
+          },
+          {
+            "id": "44c6b742421a5c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Вийти в поле.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вийти в поле"
+            }
+          },
+          {
+            "id": "d98c029180706a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Слабкі ланки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Слабкі ланки"
+            }
+          },
+          {
+            "id": "2c0f62bd6a6c4094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Адаптивний фокус.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Адаптивний фокус"
+            }
+          },
+          {
+            "id": "506296640bb9f54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/`Ні` чи `Так`.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "`Ні` чи `Так`"
+            }
+          },
+          {
+            "id": "9608f268b2999220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/4 закони поведінкової зміни.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 закони поведінкової зміни"
+            }
+          },
+          {
+            "id": "11195d1d9e8dff05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Анатомія звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анатомія звички"
+            }
+          },
+          {
+            "id": "ecad316c2ab94b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Важливість свідомості звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Важливість свідомості звички"
+            }
+          },
+          {
+            "id": "64d9d4972d433ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Винагорода як кінцева мета звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Винагорода як кінцева мета звички"
+            }
+          },
+          {
+            "id": "6c92577825fbc2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Відповідь як прояв звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Відповідь як прояв звички"
+            }
+          },
+          {
+            "id": "3f6779ffbf05da06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Вказування і називання.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вказування і називання"
+            }
+          },
+          {
+            "id": "788811ca0502fe42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Досягнення цілі. Що далі.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Досягнення цілі. Що далі"
+            }
+          },
+          {
+            "id": "6bd5edd54db3155e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Запитай себе і сформуй звичку.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Запитай себе і сформуй звичку"
+            }
+          },
+          {
+            "id": "3ddf0b920838ea8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Звички на основі результату vs. звички на основі індивідуальності.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Звички на основі результату vs. звички на основі індивідуальності"
+            }
+          },
+          {
+            "id": "cf1e8e41f626a6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Звички як відображення вашого життя.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Звички як відображення вашого життя"
+            }
+          },
+          {
+            "id": "615141ec7c70dd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Звички як відображення індивідуальності.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Звички як відображення індивідуальності"
+            }
+          },
+          {
+            "id": "2424e31a554daea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Звички як основа успіху.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Звички як основа успіху"
+            }
+          },
+          {
+            "id": "abc54a744f13e2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Звички як основи вдосконалення.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Звички як основи вдосконалення"
+            }
+          },
+          {
+            "id": "28289a4aa4012b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Зміна в результатах.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Зміна в результатах"
+            }
+          },
+          {
+            "id": "3a04b9544a70c5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Зміна індивідуальності.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Зміна індивідуальності"
+            }
+          },
+          {
+            "id": "9e362d1e0320f7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Зміна процесу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Зміна процесу"
+            }
+          },
+          {
+            "id": "a9a61c6a8fb7987d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Зміна цілей без зміни індивідуальності.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Зміна цілей без зміни індивідуальності"
+            }
+          },
+          {
+            "id": "de4b17ae158d271d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Каталізатор проривних моментів.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Каталізатор проривних моментів"
+            }
+          },
+          {
+            "id": "cb2e45daf96c21ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Мислення на перспективу без цілей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мислення на перспективу без цілей"
+            }
+          },
+          {
+            "id": "4906dac36c579e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Намір втілення.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Намір втілення"
+            }
+          },
+          {
+            "id": "6ce4c497d2292057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Нові індивідуальності вимагають нових доказів.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Нові індивідуальності вимагають нових доказів"
+            }
+          },
+          {
+            "id": "cbe0db2ff2a61971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Обмеження щастя.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обмеження щастя"
+            }
+          },
+          {
+            "id": "20c5cfff5b751790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Однакові цілі.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Однакові цілі"
+            }
+          },
+          {
+            "id": "4dd035f0c5cb7b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Петля звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Петля звички"
+            }
+          },
+          {
+            "id": "aefa59e5d12d916a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Подразник як перший етап формування звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подразник як перший етап формування звички"
+            }
+          },
+          {
+            "id": "4d5df95d9c013f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Без назви.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без назви"
+            }
+          },
+          {
+            "id": "499d7017422d0e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Почніть з результатів і рухайтеся назад до себе.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Почніть з результатів і рухайтеся назад до себе"
+            }
+          },
+          {
+            "id": "0a7b8da24a438c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Прагнення як рушійна сила звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Прагнення як рушійна сила звички"
+            }
+          },
+          {
+            "id": "c29a56afc87f9ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Принцип повторення на основі наслідків.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Принцип повторення на основі наслідків"
+            }
+          },
+          {
+            "id": "506be50420733704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Проблеми цілей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проблеми цілей"
+            }
+          },
+          {
+            "id": "114df0ca939c0244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Табель звичок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Табель звичок"
+            }
+          },
+          {
+            "id": "ed9f19d940a9768c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Три рівні змін у поведінці.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Три рівні змін у поведінці"
+            }
+          },
+          {
+            "id": "4db86dfa8c647846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Цілі винагороди.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цілі винагороди"
+            }
+          },
+          {
+            "id": "c636095fc2ca1a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Без назви 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без назви 1"
+            }
+          },
+          {
+            "id": "0150f5d08ef9e97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Цілі і способи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цілі і способи"
+            }
+          },
+          {
+            "id": "42e9f57f84e23cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Чотири стадії формування звички.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чотири стадії формування звички"
+            }
+          },
+          {
+            "id": "8c23a716f88efc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Принцип повторення на основі наслідків.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Принцип повторення на основі наслідків"
             }
           }
-        ]
+        ],
+        "currentTab": 72
       }
     ],
     "direction": "vertical"
@@ -29,7 +1042,7 @@
       {
         "id": "7a1485b117e314b9",
         "type": "tabs",
-        "dimension": 64.76552598225602,
+        "dimension": 60.1010101010101,
         "children": [
           {
             "id": "2246e0e3fc7caa4d",
@@ -50,7 +1063,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ai",
+                "query": "4 закони поведінкової зміни",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +1089,7 @@
       {
         "id": "35da487d2e811867",
         "type": "tabs",
-        "dimension": 35.23447401774398,
+        "dimension": 39.8989898989899,
         "children": [
           {
             "id": "0dc0e7ad52c004da",
@@ -92,7 +1105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 521.5
   },
   "right": {
     "id": "3142758d1efbdbb9",
@@ -206,51 +1219,52 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "99d4c0e56a159f87",
+  "active": "0dc0e7ad52c004da",
   "lastOpenFiles": [
-    "3. Resources/AI/ChatGPT/How to use ChatGPT.md",
+    "0. Inbox/Принцип повторення на основі наслідків.md",
+    "0. Inbox/Цілі винагороди.md",
+    "0. Inbox/Звички як основи вдосконалення.md",
+    "Templates/Zettelkasten.md",
+    "0. Inbox/Три рівні змін у поведінці.md",
+    "0. Inbox/Чотири стадії формування звички.md",
+    "Files/Pasted image 20240918160041.png",
+    "0. Inbox/Цілі і способи.md",
+    "0. Inbox/Без назви 1.md",
+    "0. Inbox/Табель звичок.md",
+    "0. Inbox/Проблеми цілей.md",
+    "0. Inbox/Прагнення як рушійна сила звички.md",
+    "0. Inbox/Почніть з результатів і рухайтеся назад до себе.md",
     "0. Inbox/Без назви.md",
-    "2. Areas/Programming/GIT/GitFLow/release.md",
-    "2. Areas/Programming/GIT/GitFLow/hotfix.md",
-    "2. Areas/Programming/GIT/GitFLow/feature.md",
-    "2. Areas/Programming/GIT/GitFLow/develop.md",
+    "0. Inbox/Подразник як перший етап формування звички.md",
+    "0. Inbox/Петля звички.md",
+    "0. Inbox/Однакові цілі.md",
+    "0. Inbox/Обмеження щастя.md",
+    "0. Inbox/Нові індивідуальності вимагають нових доказів.md",
+    "0. Inbox/Намір втілення.md",
+    "0. Inbox/Мислення на перспективу без цілей.md",
+    "0. Inbox/Каталізатор проривних моментів.md",
+    "0. Inbox/Зміна цілей без зміни індивідуальності.md",
+    "0. Inbox/Зміна процесу.md",
+    "0. Inbox/Зміна індивідуальності.md",
+    "0. Inbox/Зміна в результатах.md",
+    "0. Inbox/Звички як основа успіху.md",
+    "3. Resources/Books/Атомні звички/Chapters",
+    "3. Resources/Books/Атомні звички",
     "Files/Pasted image 20250124125606.png",
     "Files/Pasted image 20250124130028.png",
     "Files/Pasted image 20250124125836.png",
     "Files/Pasted image 20250124125603.png",
     "Files/Pasted image 20250124125601.png",
-    "2. Areas/Programming/GIT/GitFLow/Git Flow.md",
     "2. Areas/Programming/GIT/GitFLow",
     "2. Areas/Programming/GIT",
-    "2. Areas/Work/Emails/Email Structure.md",
     "Files/Pasted image 20250417142453.png",
-    "2. Areas/Work/Emails/Approved Emails.md",
-    "2. Areas/Work/Emails/Broadcast Email.md",
-    "Templates/Basic.md",
-    "2. Areas/Work/Emails/Email Fragments.md",
-    "2. Areas/Work/Emails/Email types.md",
     "Без назви",
     "3. Resources/AI/ChatGPT",
     "3. Resources/AI",
     "2. Areas/Programming",
-    "1. Projects/Diploma/Без назви.md",
     "1. Projects/Diploma",
-    "3. Resources/Books/Без назви",
     "3. Resources/Books",
-    "Files",
     "Files/Pasted image 20250416181608.png",
-    "Files/Pasted image 20250416181601.png",
-    "Templates/Knowledge.md",
-    "Templates/Note.md",
-    "Templates/Idea.md",
-    "Templates/Experiment.md",
-    "Templates/Zettelkasten.md",
-    "2. Areas/Без наdwdwdwdзви.md",
-    "2. Areas/Без назвиwdwdwdwd.md",
-    "Structure/Tags.md",
-    "Structure/Tag.md",
-    "Structure/Index.md",
-    "3. Resources/Без назwdergergergви.md",
-    "3. Resources/dwdwdwd.md"
+    "Files/Pasted image 20250416181601.png"
   ]
 }
