@@ -29,7 +29,8 @@
     "email/approved": 2,
     "git": 15,
     "gitflow": 16,
-    "programing": 17
+    "programing": 17,
+    "general": 18
   },
   "_version": 3
 }

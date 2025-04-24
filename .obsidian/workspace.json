@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0163685966b0cbcc",
+        "id": "2bc056e81801751a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4cc7ae51b0006c3",
+            "id": "3593f3682eaa8b98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Bundle.md",
+                "file": "0. Inbox/Master email template settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bundle"
+              "title": "Master email template settings"
             }
           }
         ]
@@ -75,8 +75,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "35da487d2e811867",
@@ -211,10 +210,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "99d4c0e56a159f87",
+  "active": "3593f3682eaa8b98",
   "lastOpenFiles": [
-    "0. Inbox/Email Skratch Directory Structure.md",
+    "0. Inbox/eWizard tokens in development.md",
+    "0. Inbox/Color scheme configurations.md",
+    "0. Inbox/Skip generating icons for individual blocks.md",
+    "0. Inbox/Generate icons for blocks.md",
     "0. Inbox/Bundle.md",
+    "0. Inbox/Master email template settings.md",
+    "0. Inbox/System settings.md",
+    "0. Inbox/Email Theme.md",
+    "0. Inbox/themes.json.md",
+    "0. Inbox/Extensions.md",
+    "0. Inbox/Localization.md",
+    "0. Inbox/Settings.md",
+    "0. Inbox/Чітка мета.md",
+    "0. Inbox/Email Skratch Directory Structure.md",
     "Templates/Idea.md",
     "Templates/Knowledge.md",
     "Templates/Experiment.md",
@@ -228,20 +239,8 @@
     "0. Inbox/Module.md",
     "0. Inbox/Theme.md",
     "Без назви",
-    "Чітка мета.md",
     "Files/Pasted image 20240918160041.png",
-    "3. Resources/Books/Атомні звички/Атомні звички.md",
     "3. Resources/Books/Атомні звички",
-    "0. Inbox/Чотири стадії формування звички.md",
-    "0. Inbox/Час на думки.md",
-    "0. Inbox/Цілі і способи.md",
-    "0. Inbox/Цілі винагороди.md",
-    "0. Inbox/Фокус на головній меті.md",
-    "0. Inbox/Упередження незворотних втрат.md",
-    "0. Inbox/Три рівні змін у поведінці.md",
-    "0. Inbox/Табель звичок.md",
-    "0. Inbox/Стратегія.md",
-    "0. Inbox/Стосунки і рішення.md",
     "Files/Pasted image 20250124125606.png",
     "Files/Pasted image 20250124130028.png",
     "Files/Pasted image 20250124125836.png",
