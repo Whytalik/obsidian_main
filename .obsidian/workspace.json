@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc056e81801751a",
+        "id": "5bd2025ef48ae648",
         "type": "tabs",
         "children": [
           {
-            "id": "3593f3682eaa8b98",
+            "id": "ff8e60961c58f107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Master email template settings.md",
+                "file": "0. Inbox/CLM in eWizard (names & codes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master email template settings"
+              "title": "CLM in eWizard (names & codes)"
+            }
+          },
+          {
+            "id": "f9ca5ca3f5bbf728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Configure blocks for countries and languages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configure blocks for countries and languages"
+            }
+          },
+          {
+            "id": "7a941afddede7f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Block groups, filters, brands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Block groups, filters, brands"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +70,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -210,34 +239,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3593f3682eaa8b98",
+  "active": "7a941afddede7f33",
   "lastOpenFiles": [
+    "0. Inbox/Configure blocks for countries and languages.md",
+    "0. Inbox/Block groups, filters, brands.md",
+    "0. Inbox/CLM in eWizard (names & codes).md",
+    "0. Inbox/Configure blocks for CLM systems.md",
+    "0. Inbox/Configure blocks for themes.md",
+    "0. Inbox/Dynamic list of blocks.md",
+    "0. Inbox/Dynamic template.md",
+    "0. Inbox/Email Theme Structure.md",
+    "Templates/Note.md",
+    "Templates/Knowledge.md",
+    "Templates/Book.md",
+    "0. Inbox/themes.json.md",
+    "0. Inbox/Master email template settings.md",
     "0. Inbox/eWizard tokens in development.md",
     "0. Inbox/Color scheme configurations.md",
     "0. Inbox/Skip generating icons for individual blocks.md",
     "0. Inbox/Generate icons for blocks.md",
     "0. Inbox/Bundle.md",
-    "0. Inbox/Master email template settings.md",
     "0. Inbox/System settings.md",
     "0. Inbox/Email Theme.md",
-    "0. Inbox/themes.json.md",
     "0. Inbox/Extensions.md",
     "0. Inbox/Localization.md",
     "0. Inbox/Settings.md",
     "0. Inbox/Чітка мета.md",
     "0. Inbox/Email Skratch Directory Structure.md",
     "Templates/Idea.md",
-    "Templates/Knowledge.md",
-    "Templates/Experiment.md",
-    "0. Inbox/Email Fragment.md",
-    "0. Inbox/2025-04-22.md",
-    "3. Resources/Books/Есенціалізм/Есенціалізм.md",
-    "0. Inbox/Veeva Vault PromoMats.md",
-    "0. Inbox/MLR Acceleration.md",
-    "0. Inbox/Marge Tags.md",
-    "0. Inbox/Claims.md",
-    "0. Inbox/Module.md",
-    "0. Inbox/Theme.md",
     "Без назви",
     "Files/Pasted image 20240918160041.png",
     "3. Resources/Books/Атомні звички",
